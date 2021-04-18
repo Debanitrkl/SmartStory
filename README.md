@@ -146,9 +146,9 @@ SmartStory takes an ensemble of user-created charts (a) and automatically genera
 
 ## User Study Results
 
- - [study #1 results (.xlsx)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study1%20results.xlsx)
- - [study #2 results (.xlsx)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study2%20results.xlsx)
- - [study #3 resulting datacomic (.png)](https://github.com/thomasxu2009/ChartStory/blob/master/user%20study%20results/study3%20datacomic.png)
+ - [study #1 results (.xlsx)](https://github.com/Debanitrkl/SmartStory/blob/master/user%20study%20results/study1%20results.xlsx)
+ - [study #2 results (.xlsx)](https://github.com/Debanitrkl/SmartStory/blob/master/user%20study%20results/study2%20results.xlsx)
+ - [study #3 resulting datacomic (.png)](https://github.com/Debanitrkl/SmartStory/blob/master/user%20study%20results/study3%20datacomic.png)
 
 ## System Setup and Running
 
