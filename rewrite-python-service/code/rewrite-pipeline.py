@@ -1,10 +1,5 @@
 '''
--*- coding: utf-8 -*-
-Copyright (C) 2020/1/14 
-Author: Xin Qian
-
 This script implements the rule-based re-write pipeline from a set of .JSON data fact to a coherent paragraphs.
-
 
 TODO: make it a flask service
 Reference: the flask API implementation from Knowledge Compressor project python-service
