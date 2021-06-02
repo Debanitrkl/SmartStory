@@ -1,5 +1,5 @@
-# SmartStory
-SmartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives. SmartStory is contributed by Debabrata Panigrahi, Vedant Raghuwansi and Ankit Samota and the backgroung architecture is inspired by Facebook's HiPlot.
+# SmartStory :chart_with_upwards_trend:
+SmartStory is a visual analysis tool for automated partitioning, layout, and captioning of charts into comic-style narratives. SmartStory is contributed by [Debabrata Panigrahi](https://github.com/Debanitrkl), [Vedant Raghuwansi](https://github.com/007vedant) and [Ankit Samota](https://github.com/ankitkumarsamota121) :tada:
 
 SmartStory takes an ensemble of user-created charts (a) and automatically generates a data comic (b-d). This is achieved through a back- end pipeline with operations to identify story pieces (b), organize & order story pieces (c), and generate & integrate explanations (d). The user can also interactively edit the captions and layout of the charts, and change the style or appearance of the data comic (e).
 
@@ -7,7 +7,7 @@ SmartStory takes an ensemble of user-created charts (a) and automatically genera
 
 
 
-## Generated Datacomics Examples
+## Generated Datacomics Examples :page_facing_up:
 
 #### With NLP generated captions
 <table>
@@ -144,13 +144,9 @@ SmartStory takes an ensemble of user-created charts (a) and automatically genera
 	</tr>
 </table>
 
-## User Study Results
 
- - [study #1 results (.xlsx)](https://github.com/Debanitrkl/SmartStory/blob/master/user%20study%20results/study1%20results.xlsx)
- - [study #2 results (.xlsx)](https://github.com/Debanitrkl/SmartStory/blob/master/user%20study%20results/study2%20results.xlsx)
- - [study #3 resulting datacomic (.png)](https://github.com/Debanitrkl/SmartStory/blob/master/user%20study%20results/study3%20datacomic.png)
 
-## System Setup and Running
+## System Setup and Running :building_construction:
 
 ### Prerequisite:
 
@@ -166,5 +162,5 @@ SmartStory takes an ensemble of user-created charts (a) and automatically genera
 
     npm start
 
-Open the explorer with "http://localhost:8090/"
+:pushpin: Open the explorer with "http://localhost:8090/" :rocket:
 
