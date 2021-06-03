@@ -91,10 +91,6 @@ python rewrite-pipeline.py ../data/gun/datafact37.json ../data/gun/datafact37-re
 python rewrite-pipeline.py ../data/gun/datafact38.json ../data/gun/datafact38-rewrite.json
 
 
-To upload and run in server, if Google does not in your area:
-
-scp -r rewrite-python-service/code/ chen@100.15.126.133:/home/chen/xinq/20Spring/chartStories/
-
 
 '''
 
